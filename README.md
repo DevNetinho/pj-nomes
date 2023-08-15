@@ -8,8 +8,10 @@ Tem como funcionalidades a consulta da api criada por mim que consulta a [API do
 
 ## Capturas de tela 🖥️
 
+Tela Principal:
 ![Tela Principal](public/images/nomes.png)
 
+Top 10 nomes mais usados no Brasil:
 ![Top 10 nomes mais usados](public/images/mais_usados.png)
 
 
